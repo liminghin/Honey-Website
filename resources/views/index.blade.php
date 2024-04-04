@@ -107,7 +107,7 @@
             <div class="flex flex-col justify-center items-center h-25">
                 <h1 class="font-semibold text-xl text-orange-700">Longan Honey</h1>
                 <p class="text-center p-3"></p>
-                <a href="" class="font-semibold bg-orange-700 text-white hover:bg-orange-900 hover:text-white px-2 py-1 rounded pt-2 pb-2">Info</a>
+                <a href="{{route('order.create')}}" class="font-semibold bg-orange-700 text-white hover:bg-orange-900 hover:text-white px-2 py-1 rounded pt-2 pb-2">Buy</a>
              </div>
 
         </div>
@@ -121,7 +121,7 @@
             <div class="flex flex-col justify-center items-center h-25">
                 <h1 class="font-semibold text-xl text-amber-500">Acacia Carpa Honey</h1>
                 <p class="text-center p-3"></p>
-                <a href="" class="font-semibold bg-amber-500 text-white hover:bg-amber-700 hover:text-white px-2 py-1 rounded pt-2 pb-2">Info</a>
+                <a href="{{route('order.create')}}" class="font-semibold bg-amber-500 text-white hover:bg-amber-700 hover:text-white px-2 py-1 rounded pt-2 pb-2">Buy</a>
              </div>
 
         </div>
@@ -142,7 +142,7 @@
             <div class="flex flex-col justify-center items-center h-25">
                 <h1 class="font-semibold text-xl text-yellow-300">Multifloral Honey</h1>
                 <p class="text-center p-3"></p>
-                <a href="" class="font-semibold bg-yellow-300 text-white hover:bg-yellow-500 hover:text-white px-2 py-1 rounded pt-2 pb-2">Info</a>
+                <a href="{{route('order.create')}}" class="font-semibold bg-yellow-300 text-white hover:bg-yellow-500 hover:text-white px-2 py-1 rounded pt-2 pb-2">Buy</a>
              </div>
 
         </div>
@@ -156,7 +156,7 @@
             <div class="flex flex-col justify-center items-center h-25">
                 <h1 class="font-semibold text-xl text-yellow-500">Calliandra Honey</h1>
                 <p class="text-center p-3"></p>
-                <a href="" class="font-semibold bg-yellow-500 text-white hover:bg-yellow-700 hover:text-white px-2 py-1 rounded pt-2 pb-2">Info</a>
+                <a href="{{route('order.create')}}" class="font-semibold bg-yellow-500 text-white hover:bg-yellow-700 hover:text-white px-2 py-1 rounded pt-2 pb-2">Buy</a>
              </div>
 
         </div>
